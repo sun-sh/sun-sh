@@ -1,34 +1,60 @@
 <div align="center">
 
-# Agent / LLM 工程师
+<h2>Hi, I'm Sun Shihao 👋</h2>
 
-关注长程任务、工具调用与 Agent Runtime
+<p><strong>Agent / LLM Engineering · Open Source</strong></p>
 
-[![Open to Work](https://img.shields.io/badge/Open%20to-Agent%20%2F%20LLM%20Roles-2ea44f?style=for-the-badge)](mailto:1665738773@qq.com)
-[![Email](https://img.shields.io/badge/1665738773%40qq.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1665738773@qq.com)
+<p>关注长程任务、工具调用与 Agent Runtime</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3176C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/AI_Agents-475569?style=flat-square" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Open_to_Work-2ea44f?style=flat-square" alt="Open to Work" />
+</p>
+
+<p>
+  <a href="mailto:1665738773@qq.com">1665738773@qq.com</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Asun-sh">Merged Pull Requests</a>
+</p>
 
 </div>
 
 ---
 
-正在寻找 **Agent / LLM 工程岗位（实习/全职）**。
+### Open-source contributions
 
-### 开源贡献
+<p>
+  <a href="https://github.com/bytedance/deer-flow">
+    <img align="left" src="https://github.com/bytedance.png?size=64" width="36" height="36" alt="bytedance/deer-flow logo" />
+  </a>
+  <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3Asun-sh">
+    <img align="right" src="https://img.shields.io/badge/Merged_PRs-1-2ea44f?style=flat-square" alt="1 merged PR" />
+  </a>
+  <a href="https://github.com/bytedance/deer-flow"><strong>bytedance/deer-flow</strong></a><br />
+  <sub>Python · Long-horizon SuperAgent harness</sub>
+</p>
 
-**DeerFlow** · bytedance
+<hr />
 
-[PR #7081](https://github.com/bytedance/deer-flow/pull/7081) · 已合并  
-[PR #7082](https://github.com/bytedance/deer-flow/pull/7082) · Open
-
-**WeKnora** · Tencent
-
-[PR #4544](https://github.com/Tencent/WeKnora/pull/4544) · 已合并  
-[PR #4583](https://github.com/Tencent/WeKnora/pull/4583) · 已合并
+<p>
+  <a href="https://github.com/Tencent/WeKnora">
+    <img align="left" src="https://github.com/Tencent.png?size=64" width="36" height="36" alt="Tencent/WeKnora logo" />
+  </a>
+  <a href="https://github.com/Tencent/WeKnora/pulls?q=is%3Apr+is%3Amerged+author%3Asun-sh">
+    <img align="right" src="https://img.shields.io/badge/Merged_PRs-2-2ea44f?style=flat-square" alt="2 merged PRs" />
+  </a>
+  <a href="https://github.com/Tencent/WeKnora"><strong>Tencent/WeKnora</strong></a><br />
+  <sub>LLM knowledge platform · RAG · Agent</sub>
+</p>
 
 ---
 
 <div align="center">
 
-[1665738773@qq.com](mailto:1665738773@qq.com)
+正在寻找 <strong>Agent / LLM 工程岗位（实习/全职）</strong>
+
+<a href="mailto:1665738773@qq.com">1665738773@qq.com</a>
 
 </div>
