@@ -1,29 +1,23 @@
 <div align="center">
 
-<h2>Hi, I'm Sun Shihao 👋</h2>
+<h2>Agent / LLM Engineer 👋</h2>
 
-<p><strong>Agent / LLM Engineering · Open Source</strong></p>
-
-<p>关注长程任务、工具调用与 Agent Runtime</p>
+<p><strong>Long-horizon Tasks · Tool Use · Agent Runtime</strong></p>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3176C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/AI_Agents-475569?style=flat-square" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Open_to_Work-2ea44f?style=flat-square" alt="Open to Work" />
-</p>
-
-<p>
-  <a href="mailto:1665738773@qq.com">1665738773@qq.com</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Asun-sh">Merged Pull Requests</a>
+  <a href="mailto:1665738773@qq.com">
+    <img src="https://img.shields.io/badge/Open_to_Work-Agent_%2F_LLM_Roles-2ea44f?style=for-the-badge" alt="Open to Work" />
+  </a>
+  <a href="mailto:1665738773@qq.com">
+    <img src="https://img.shields.io/badge/1665738773%40qq.com-d14836?style=for-the-badge" alt="Email" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-### Open-source contributions
+### 开源贡献
 
 <p>
   <a href="https://github.com/bytedance/deer-flow">
@@ -36,7 +30,7 @@
     <img align="right" src="https://img.shields.io/badge/1_Merged_PR-2ea44f?style=flat-square" alt="1 merged PR" />
   </a>
   <a href="https://github.com/bytedance/deer-flow"><strong>bytedance/deer-flow</strong></a><br />
-  <sub>Python · Long-horizon SuperAgent harness</sub>
+  <sub>Long-horizon SuperAgent harness</sub>
 </p>
 
 <hr />
@@ -52,7 +46,7 @@
     <img align="right" src="https://img.shields.io/badge/2_Merged_PRs-2ea44f?style=flat-square" alt="2 merged PRs" />
   </a>
   <a href="https://github.com/Tencent/WeKnora"><strong>Tencent/WeKnora</strong></a><br />
-  <sub>LLM knowledge platform · RAG · Agent</sub>
+  <sub>LLM knowledge platform</sub>
 </p>
 
 ---
