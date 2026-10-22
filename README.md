@@ -29,8 +29,11 @@
   <a href="https://github.com/bytedance/deer-flow">
     <img align="left" src="https://github.com/bytedance.png?size=64" width="36" height="36" alt="bytedance/deer-flow logo" />
   </a>
+  <a href="https://github.com/bytedance/deer-flow">
+    <img align="right" src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&label=Stars&color=181717" alt="Stars" />
+  </a>
   <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3Asun-sh">
-    <img align="right" src="https://img.shields.io/badge/Merged_PRs-1-2ea44f?style=flat-square" alt="1 merged PR" />
+    <img align="right" src="https://img.shields.io/badge/1_Merged_PR-2ea44f?style=flat-square" alt="1 merged PR" />
   </a>
   <a href="https://github.com/bytedance/deer-flow"><strong>bytedance/deer-flow</strong></a><br />
   <sub>Python · Long-horizon SuperAgent harness</sub>
@@ -42,8 +45,11 @@
   <a href="https://github.com/Tencent/WeKnora">
     <img align="left" src="https://github.com/Tencent.png?size=64" width="36" height="36" alt="Tencent/WeKnora logo" />
   </a>
+  <a href="https://github.com/Tencent/WeKnora">
+    <img align="right" src="https://img.shields.io/github/stars/Tencent/WeKnora?style=flat-square&label=Stars&color=181717" alt="Stars" />
+  </a>
   <a href="https://github.com/Tencent/WeKnora/pulls?q=is%3Apr+is%3Amerged+author%3Asun-sh">
-    <img align="right" src="https://img.shields.io/badge/Merged_PRs-2-2ea44f?style=flat-square" alt="2 merged PRs" />
+    <img align="right" src="https://img.shields.io/badge/2_Merged_PRs-2ea44f?style=flat-square" alt="2 merged PRs" />
   </a>
   <a href="https://github.com/Tencent/WeKnora"><strong>Tencent/WeKnora</strong></a><br />
   <sub>LLM knowledge platform · RAG · Agent</sub>
