@@ -43,7 +43,7 @@
     <img align="right" src="https://img.shields.io/github/stars/Tencent/WeKnora?style=flat-square&label=Stars&color=181717" alt="Stars" />
   </a>
   <a href="https://github.com/Tencent/WeKnora/pulls?q=is%3Apr+is%3Amerged+author%3Asun-sh">
-    <img align="right" src="https://img.shields.io/badge/2_Merged_PRs-2ea44f?style=flat-square" alt="2 merged PRs" />
+    <img align="right" src="https://img.shields.io/badge/2_Merged_PRs-2ea44f?style=flat-square" alt="3 merged PRs" />
   </a>
   <a href="https://github.com/Tencent/WeKnora"><strong>Tencent/WeKnora</strong></a><br />
   <sub>LLM knowledge platform</sub>
