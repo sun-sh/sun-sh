@@ -27,7 +27,7 @@
     <img align="right" src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&label=Stars&color=181717" alt="Stars" />
   </a>
   <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3Asun-sh">
-    <img align="right" src="https://img.shields.io/badge/1_Merged_PR-2ea44f?style=flat-square" alt="1 merged PR" />
+    <img align="right" src="https://img.shields.io/github/issues-search?query=repo%3Abytedance%2Fdeer-flow%20is%3Apr%20is%3Amerged%20author%3Asun-sh&amp;label=Merged%20PRs&amp;color=2ea44f&amp;style=flat-square" alt="sun-sh 在 bytedance/deer-flow 已合并的 PR 数量" />
   </a>
   <a href="https://github.com/bytedance/deer-flow"><strong>bytedance/deer-flow</strong></a><br />
   <sub>Long-horizon SuperAgent harness</sub>
@@ -43,7 +43,7 @@
     <img align="right" src="https://img.shields.io/github/stars/Tencent/WeKnora?style=flat-square&label=Stars&color=181717" alt="Stars" />
   </a>
   <a href="https://github.com/Tencent/WeKnora/pulls?q=is%3Apr+is%3Amerged+author%3Asun-sh">
-    <img align="right" src="https://img.shields.io/badge/4_Merged_PRs-2ea44f?style=flat-square" alt="4 merged PRs" />
+    <img align="right" src="https://img.shields.io/github/issues-search?query=repo%3ATencent%2FWeKnora%20is%3Apr%20is%3Amerged%20author%3Asun-sh&amp;label=Merged%20PRs&amp;color=2ea44f&amp;style=flat-square" alt="sun-sh 在 Tencent/WeKnora 已合并的 PR 数量" />
   </a>
   <a href="https://github.com/Tencent/WeKnora"><strong>Tencent/WeKnora</strong></a><br />
   <sub>LLM knowledge platform</sub>
