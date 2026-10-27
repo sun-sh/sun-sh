@@ -24,7 +24,7 @@
     <img align="left" src="https://github.com/bytedance.png?size=64" width="36" height="36" alt="bytedance/deer-flow logo" />
   </a>
   <a href="https://github.com/bytedance/deer-flow">
-    <img align="right" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbytedance%2Fdeer-flow&amp;query=%24.stargazers_count&amp;label=Stars&amp;color=181717&amp;style=flat-square" alt="Stars" />
+    <img align="right" src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&label=Stars&color=181717" alt="Stars" />
   </a>
   <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3Asun-sh">
     <img align="right" src="https://img.shields.io/github/issues-search?query=repo%3Abytedance%2Fdeer-flow%20is%3Apr%20is%3Amerged%20author%3Asun-sh&amp;label=Merged%20PRs&amp;color=2ea44f&amp;style=flat-square" alt="sun-sh 在 bytedance/deer-flow 已合并的 PR 数量" />
@@ -40,7 +40,7 @@
     <img align="left" src="https://github.com/Tencent.png?size=64" width="36" height="36" alt="Tencent/WeKnora logo" />
   </a>
   <a href="https://github.com/Tencent/WeKnora">
-    <img align="right" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FTencent%2FWeKnora&amp;query=%24.stargazers_count&amp;label=Stars&amp;color=181717&amp;style=flat-square" alt="Stars" />
+    <img align="right" src="https://img.shields.io/github/stars/Tencent/WeKnora?style=flat-square&label=Stars&color=181717" alt="Stars" />
   </a>
   <a href="https://github.com/Tencent/WeKnora/pulls?q=is%3Apr+is%3Amerged+author%3Asun-sh">
     <img align="right" src="https://img.shields.io/github/issues-search?query=repo%3ATencent%2FWeKnora%20is%3Apr%20is%3Amerged%20author%3Asun-sh&amp;label=Merged%20PRs&amp;color=2ea44f&amp;style=flat-square" alt="sun-sh 在 Tencent/WeKnora 已合并的 PR 数量" />
