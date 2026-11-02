@@ -24,40 +24,6 @@
 
 ---
 
-## 个人项目
-
-### Atlas BI · 企业级电商 NL2SQL 分析平台
-
-<p>
-  <a href="https://github.com/sun-sh/atlas-bi-nl2sql"><strong>sun-sh/atlas-bi-nl2sql</strong></a>
-  &nbsp;
-  <a href="https://github.com/sun-sh/atlas-bi-nl2sql/actions/workflows/ci.yml">
-    <img src="https://github.com/sun-sh/atlas-bi-nl2sql/actions/workflows/ci.yml/badge.svg" alt="Atlas BI CI" />
-  </a>
-</p>
-
-**用一句话查经营数据，从问题到 SQL、结果与分析依据。**
-
-独立实现电商数据分析工作台，以 LangGraph 串联 Schema 混合检索、SQL 生成与失败自修复；通过 AST 校验和只读执行控制查询边界，支持流式解读、连续追问与查询追踪。
-
-<p>
-  <a href="https://github.com/sun-sh/atlas-bi-nl2sql/blob/main/docs/ARCHITECTURE.md">架构设计</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/sun-sh/atlas-bi-nl2sql/blob/main/docs/EVALUATION.md">评测说明</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/sun-sh/atlas-bi-nl2sql">查看项目 →</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sun-sh/atlas-bi-nl2sql">
-    <img src="https://raw.githubusercontent.com/sun-sh/atlas-bi-nl2sql/main/docs/atlas-stream-final.png" alt="Atlas BI 分析工作台" width="760" />
-  </a>
-</p>
-
-**评测结果：** 项目自建 100 条严格模型用例 **100/100 通过**（2026-10-27，固定数据集与当次模型配置）；要求模型生成 SQL 并完成结果解读。
-
----
-
 ## 开源贡献
 
 ### DeerFlow
@@ -96,6 +62,16 @@
 > 将重复全文扫描改为单次扫描构建匹配索引。数据来自本地单次微基准测试，输入为 2,000 行、7 列的 CSV 形态数据。
 
 [查看全部已合并 PR →](https://github.com/Tencent/WeKnora/pulls?q=is%3Apr+is%3Amerged+author%3Asun-sh)
+
+---
+
+## 个人项目
+
+### Atlas BI · 企业级电商 NL2SQL 分析平台
+
+面向电商经营分析的 Agent 项目，将自然语言问题转为可执行、可审计的 SQL 查询，支持检索、推理、校验、自修复与结果解释。
+
+[查看项目 →](https://github.com/sun-sh/atlas-bi-nl2sql)
 
 ---
 
