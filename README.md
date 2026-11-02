@@ -69,7 +69,7 @@
 
 ### Atlas BI · 企业级电商 NL2SQL 分析平台
 
-面向电商经营分析的 Agent 项目，将自然语言问题转为可执行、可审计的 SQL 查询，支持检索、推理、校验、自修复与结果解释。
+独立实现电商数据分析工作台，以 LangGraph 串联 Schema 混合检索、SQL 生成与失败自修复；通过 AST 校验和只读执行控制查询边界，支持流式解读、连续追问与查询追踪。
 
 [查看项目 →](https://github.com/sun-sh/atlas-bi-nl2sql)
 
