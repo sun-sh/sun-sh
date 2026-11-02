@@ -1,59 +1,73 @@
 <div align="center">
 
-<h2>Agent / LLM Engineer 👋</h2>
+<h1>Agent / LLM Engineer</h1>
 
-<p><strong>Long-horizon Tasks · Tool Use · Agent Runtime</strong></p>
+<p>参与 Agent 与 RAG 开源项目，解决真实工程问题。</p>
 
 <p>
   <a href="mailto:1665738773@qq.com">
-    <img src="https://img.shields.io/badge/Open_to_Work-Agent_%2F_LLM_Roles-2ea44f?style=for-the-badge" alt="Open to Work" />
+    <img src="https://img.shields.io/badge/Open_to_Work-Agent_Roles-2ea44f?style=for-the-badge" alt="正在寻找 Agent 相关工作" />
   </a>
   <a href="mailto:1665738773@qq.com">
-    <img src="https://img.shields.io/badge/1665738773%40qq.com-d14836?style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-1665738773%40qq.com-d14836?style=for-the-badge" alt="邮箱：1665738773@qq.com" />
   </a>
+</p>
+
+<p>
+  <a href="https://github.com/search?q=author%3Asun-sh+is%3Apr+is%3Amerged+repo%3Abytedance%2Fdeer-flow+repo%3ATencent%2FWeKnora&amp;type=pullrequests">
+    <img src="https://img.shields.io/github/issues-search?query=author%3Asun-sh%20is%3Apr%20is%3Amerged%20repo%3Abytedance%2Fdeer-flow%20repo%3ATencent%2FWeKnora&amp;label=Merged%20PRs&amp;color=2ea44f&amp;style=flat-square" alt="两个项目中已合并的 PR 总数" />
+  </a>
+  &nbsp;·&nbsp; 2 个参与贡献的开源项目
 </p>
 
 </div>
 
 ---
 
-### 开源贡献
+## 开源贡献
+
+### DeerFlow
 
 <p>
+  <a href="https://github.com/bytedance/deer-flow"><strong>bytedance/deer-flow</strong></a>
+  &nbsp;
   <a href="https://github.com/bytedance/deer-flow">
-    <img align="left" src="https://github.com/bytedance.png?size=64" width="36" height="36" alt="bytedance/deer-flow logo" />
-  </a>
-  <a href="https://github.com/bytedance/deer-flow">
-    <img align="right" src="https://raw.githubusercontent.com/sun-sh/sun-sh/main/assets/stars/deer-flow.svg" alt="Stars" />
+    <img src="https://raw.githubusercontent.com/sun-sh/sun-sh/main/assets/stars/deer-flow.svg" alt="DeerFlow Stars" />
   </a>
   <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3Asun-sh">
-    <img align="right" src="https://img.shields.io/github/issues-search?query=repo%3Abytedance%2Fdeer-flow%20is%3Apr%20is%3Amerged%20author%3Asun-sh&amp;label=Merged%20PRs&amp;color=2ea44f&amp;style=flat-square" alt="sun-sh 在 bytedance/deer-flow 已合并的 PR 数量" />
+    <img src="https://img.shields.io/github/issues-search?query=repo%3Abytedance%2Fdeer-flow%20is%3Apr%20is%3Amerged%20author%3Asun-sh&amp;label=Merged%20PRs&amp;color=2ea44f&amp;style=flat-square" alt="DeerFlow 已合并 PR 数" />
   </a>
-  <a href="https://github.com/bytedance/deer-flow"><strong>bytedance/deer-flow</strong></a><br />
-  <sub>Long-horizon SuperAgent harness</sub>
 </p>
 
-<hr />
+针对 Skill 扫描中可执行文件漏检、项目上传取消后资源清理不完整的问题，完善二进制识别与异步清理流程，并补充边界回归测试；修复已合并至主线。
+
+[查看全部已合并 PR →](https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3Asun-sh)
+
+### WeKnora
 
 <p>
+  <a href="https://github.com/Tencent/WeKnora"><strong>Tencent/WeKnora</strong></a>
+  &nbsp;
   <a href="https://github.com/Tencent/WeKnora">
-    <img align="left" src="https://github.com/Tencent.png?size=64" width="36" height="36" alt="Tencent/WeKnora logo" />
-  </a>
-  <a href="https://github.com/Tencent/WeKnora">
-    <img align="right" src="https://raw.githubusercontent.com/sun-sh/sun-sh/main/assets/stars/weknora.svg" alt="Stars" />
+    <img src="https://raw.githubusercontent.com/sun-sh/sun-sh/main/assets/stars/weknora.svg" alt="WeKnora Stars" />
   </a>
   <a href="https://github.com/Tencent/WeKnora/pulls?q=is%3Apr+is%3Amerged+author%3Asun-sh">
-    <img align="right" src="https://img.shields.io/github/issues-search?query=repo%3ATencent%2FWeKnora%20is%3Apr%20is%3Amerged%20author%3Asun-sh&amp;label=Merged%20PRs&amp;color=2ea44f&amp;style=flat-square" alt="sun-sh 在 Tencent/WeKnora 已合并的 PR 数量" />
+    <img src="https://img.shields.io/github/issues-search?query=repo%3ATencent%2FWeKnora%20is%3Apr%20is%3Amerged%20author%3Asun-sh&amp;label=Merged%20PRs&amp;color=2ea44f&amp;style=flat-square" alt="WeKnora 已合并 PR 数" />
   </a>
-  <a href="https://github.com/Tencent/WeKnora"><strong>Tencent/WeKnora</strong></a><br />
-  <sub>LLM knowledge platform</sub>
 </p>
+
+围绕 Agent 与 RAG 链路，修复流式重试残留、跨知识库 Embedding 维度混用、UTF-8 截断和文件处理问题；补充知识图谱任务 panic 保护与仅手动维护的知识库模式，并优化文档来源定位性能，其中 7 个贡献已进入 v0.9.0 发布版本，相关改动已合并至主线。
+
+> **文档来源定位：约 395ms → 10.4ms**<br />
+> 将重复全文扫描改为单次扫描构建匹配索引。数据来自本地单次微基准测试，输入为 2,000 行、7 列的 CSV 形态数据。
+
+[查看全部已合并 PR →](https://github.com/Tencent/WeKnora/pulls?q=is%3Apr+is%3Amerged+author%3Asun-sh)
 
 ---
 
 <div align="center">
 
-正在寻找 <strong>Agent / LLM 工程岗位（实习/全职）</strong>
+正在寻找 <strong>Agent 相关工作</strong>，欢迎联系。
 
 <a href="mailto:1665738773@qq.com">1665738773@qq.com</a>
 
