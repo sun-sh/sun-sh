@@ -2,7 +2,7 @@
 
 <h1>Agent / LLM Engineer</h1>
 
-<p>参与 Agent 与 RAG 开源项目，解决真实工程问题。</p>
+<p>独立构建 Agent 系统，也参与成熟开源项目演进。</p>
 
 <p>
   <a href="mailto:1665738773@qq.com">
@@ -17,10 +17,44 @@
   <a href="https://github.com/search?q=author%3Asun-sh+is%3Apr+is%3Amerged+repo%3Abytedance%2Fdeer-flow+repo%3ATencent%2FWeKnora&amp;type=pullrequests">
     <img src="https://img.shields.io/github/issues-search?query=author%3Asun-sh%20is%3Apr%20is%3Amerged%20repo%3Abytedance%2Fdeer-flow%20repo%3ATencent%2FWeKnora&amp;label=Merged%20PRs&amp;color=2ea44f&amp;style=flat-square" alt="两个项目中已合并的 PR 总数" />
   </a>
-  &nbsp;·&nbsp; 2 个参与贡献的开源项目
+  &nbsp;·&nbsp; 1 个独立项目&nbsp;&nbsp;·&nbsp;&nbsp;2 个开源项目贡献
 </p>
 
 </div>
+
+---
+
+## 个人项目
+
+### Atlas BI · 企业级电商 NL2SQL 分析平台
+
+<p>
+  <a href="https://github.com/sun-sh/atlas-bi-nl2sql"><strong>sun-sh/atlas-bi-nl2sql</strong></a>
+  &nbsp;
+  <a href="https://github.com/sun-sh/atlas-bi-nl2sql/actions/workflows/ci.yml">
+    <img src="https://github.com/sun-sh/atlas-bi-nl2sql/actions/workflows/ci.yml/badge.svg" alt="Atlas BI CI" />
+  </a>
+</p>
+
+**用一句话查经营数据，从问题到 SQL、结果与分析依据。**
+
+独立实现电商数据分析工作台，以 LangGraph 串联 Schema 混合检索、SQL 生成与失败自修复；通过 AST 校验和只读执行控制查询边界，支持流式解读、连续追问与查询追踪。
+
+<p>
+  <a href="https://github.com/sun-sh/atlas-bi-nl2sql/blob/main/docs/ARCHITECTURE.md">架构设计</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/sun-sh/atlas-bi-nl2sql/blob/main/docs/EVALUATION.md">评测说明</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/sun-sh/atlas-bi-nl2sql">查看项目 →</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sun-sh/atlas-bi-nl2sql">
+    <img src="https://raw.githubusercontent.com/sun-sh/atlas-bi-nl2sql/main/docs/atlas-stream-final.png" alt="Atlas BI 分析工作台" width="760" />
+  </a>
+</p>
+
+**评测结果：** 项目自建 100 条严格模型用例 **100/100 通过**（2026-10-27，固定数据集与当次模型配置）；要求模型生成 SQL 并完成结果解读。
 
 ---
 
