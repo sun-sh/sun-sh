@@ -83,7 +83,7 @@
 
 <div align="center">
 
-正在寻找 <strong>Agent 相关工作</strong>，欢迎联系。
+正在寻找 <strong>Agent 相关工作(实习/全职)</strong>，欢迎联系。
 
 <a href="mailto:1665738773@qq.com">1665738773@qq.com</a>
 
