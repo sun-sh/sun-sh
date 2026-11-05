@@ -17,7 +17,7 @@
   <a href="https://github.com/search?q=author%3Asun-sh+is%3Apr+is%3Amerged+repo%3Abytedance%2Fdeer-flow+repo%3ATencent%2FWeKnora&amp;type=pullrequests">
     <img src="https://img.shields.io/github/issues-search?query=author%3Asun-sh%20is%3Apr%20is%3Amerged%20repo%3Abytedance%2Fdeer-flow%20repo%3ATencent%2FWeKnora&amp;label=Merged%20PRs&amp;color=2ea44f&amp;style=flat-square" alt="两个项目中已合并的 PR 总数" />
   </a>
-  &nbsp;·&nbsp; 1 个独立项目&nbsp;&nbsp;·&nbsp;&nbsp;2 个开源项目贡献
+  &nbsp;·&nbsp; 2 个独立项目&nbsp;&nbsp;·&nbsp;&nbsp;2 个开源项目贡献
 </p>
 
 </div>
@@ -66,6 +66,12 @@
 ---
 
 ## 个人项目
+
+### Forge Agent · 本机 Coding Agent
+
+独立构建本机 Web Coding Agent，基于 Pi runtime 实现项目会话、任务编排、模型与工具管理；通过规划、实现、验证和审阅工作流，结合验证证据与 Git diff 提升代码修改任务的可追踪性。
+
+[查看项目 →](https://github.com/sun-sh/forge-agent)
 
 ### Atlas BI · 企业级电商 NL2SQL 分析平台
 
