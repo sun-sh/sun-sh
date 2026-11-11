@@ -69,7 +69,7 @@
 
 ### Forge Agent · 本机 Coding Agent
 
-独立构建本机 Web Coding Agent，基于 Pi runtime 实现项目会话、任务编排、模型与工具管理；通过规划、实现、验证和审阅工作流，结合验证证据与 Git diff 提升代码修改任务的可追踪性。
+独立构建本机 Web Coding Agent，围绕“任务是否真的完成”设计执行闭环：基于 Pi runtime 负责模型与工具循环，Forge 自己实现项目会话、规划/实现/验证/审阅、保护路径和中断恢复；将修改结果、验证证据与 Git diff 放在同一工作台中，让代码交付可追踪、可复核。
 
 [查看项目 →](https://github.com/sun-sh/forge-agent)
 
